@@ -1,0 +1,13 @@
+C:\IPM\OrderProcessing.POC\OrderProcessing.POC\obj\Debug\netcoreapp2.0\OrderProcessing.POC.csproj.CoreCompileInputs.cache
+C:\IPM\OrderProcessing.POC\OrderProcessing.POC\obj\Debug\netcoreapp2.0\OrderProcessing.POC.AssemblyInfoInputs.cache
+C:\IPM\OrderProcessing.POC\OrderProcessing.POC\obj\Debug\netcoreapp2.0\OrderProcessing.POC.AssemblyInfo.cs
+C:\IPM\OrderProcessing.POC\OrderProcessing.POC\bin\Debug\netcoreapp2.0\script\spQuery.js
+C:\IPM\OrderProcessing.POC\OrderProcessing.POC\bin\Debug\netcoreapp2.0\OrderProcessing.POC.deps.json
+C:\IPM\OrderProcessing.POC\OrderProcessing.POC\bin\Debug\netcoreapp2.0\OrderProcessing.POC.runtimeconfig.json
+C:\IPM\OrderProcessing.POC\OrderProcessing.POC\bin\Debug\netcoreapp2.0\OrderProcessing.POC.runtimeconfig.dev.json
+C:\IPM\OrderProcessing.POC\OrderProcessing.POC\bin\Debug\netcoreapp2.0\OrderProcessing.POC.dll
+C:\IPM\OrderProcessing.POC\OrderProcessing.POC\bin\Debug\netcoreapp2.0\OrderProcessing.POC.pdb
+C:\IPM\OrderProcessing.POC\OrderProcessing.POC\bin\Debug\netcoreapp2.0\Microsoft.Azure.DocumentDB.Core.dll
+C:\IPM\OrderProcessing.POC\OrderProcessing.POC\obj\Debug\netcoreapp2.0\OrderProcessing.POC.dll
+C:\IPM\OrderProcessing.POC\OrderProcessing.POC\obj\Debug\netcoreapp2.0\OrderProcessing.POC.pdb
+C:\IPM\OrderProcessing.POC\OrderProcessing.POC\obj\Debug\netcoreapp2.0\OrderProcessing.POC.csprojResolveAssemblyReference.cache

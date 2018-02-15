@@ -1,0 +1,6 @@
+C:\IPM\OrderProcessing.POC\IPM.Order.Factory\bin\Debug\IPM.Order.Factory.dll
+C:\IPM\OrderProcessing.POC\IPM.Order.Factory\bin\Debug\IPM.Order.Factory.pdb
+C:\IPM\OrderProcessing.POC\IPM.Order.Factory\obj\Debug\IPM.Order.Factory.csproj.CoreCompileInputs.cache
+C:\IPM\OrderProcessing.POC\IPM.Order.Factory\obj\Debug\IPM.Order.Factory.dll
+C:\IPM\OrderProcessing.POC\IPM.Order.Factory\obj\Debug\IPM.Order.Factory.pdb
+C:\IPM\OrderProcessing.POC\IPM.Order.Factory\obj\Debug\IPM.Order.Factory.csprojResolveAssemblyReference.cache

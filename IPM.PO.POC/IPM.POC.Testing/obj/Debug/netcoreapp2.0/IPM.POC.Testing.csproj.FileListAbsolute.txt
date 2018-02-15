@@ -1,0 +1,12 @@
+C:\IPM\OrderProcessing.POC\IPM.POC.Testing\bin\Debug\netcoreapp2.0\IPM.POC.Testing.deps.json
+C:\IPM\OrderProcessing.POC\IPM.POC.Testing\bin\Debug\netcoreapp2.0\IPM.POC.Testing.dll
+C:\IPM\OrderProcessing.POC\IPM.POC.Testing\obj\Debug\netcoreapp2.0\IPM.POC.Testing.csproj.CoreCompileInputs.cache
+C:\IPM\OrderProcessing.POC\IPM.POC.Testing\obj\Debug\netcoreapp2.0\IPM.POC.Testing.AssemblyInfoInputs.cache
+C:\IPM\OrderProcessing.POC\IPM.POC.Testing\obj\Debug\netcoreapp2.0\IPM.POC.Testing.AssemblyInfo.cs
+C:\IPM\OrderProcessing.POC\IPM.POC.Testing\bin\Debug\netcoreapp2.0\IPM.POC.Testing.pdb
+C:\IPM\OrderProcessing.POC\IPM.POC.Testing\obj\Debug\netcoreapp2.0\IPM.POC.Testing.dll
+C:\IPM\OrderProcessing.POC\IPM.POC.Testing\obj\Debug\netcoreapp2.0\IPM.POC.Testing.pdb
+C:\IPM\OrderProcessing.POC\IPM.POC.Testing\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\IPM\OrderProcessing.POC\IPM.POC.Testing\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\IPM\OrderProcessing.POC\IPM.POC.Testing\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\IPM\OrderProcessing.POC\IPM.POC.Testing\obj\Debug\netcoreapp2.0\IPM.POC.Testing.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\IPM\OrderProcessing.POC\HelperLibrary\bin\Debug\netcoreapp2.0\HelperLibrary.deps.json
+C:\IPM\OrderProcessing.POC\HelperLibrary\bin\Debug\netcoreapp2.0\HelperLibrary.dll
+C:\IPM\OrderProcessing.POC\HelperLibrary\obj\Debug\netcoreapp2.0\HelperLibrary.csprojResolveAssemblyReference.cache
+C:\IPM\OrderProcessing.POC\HelperLibrary\obj\Debug\netcoreapp2.0\HelperLibrary.csproj.CoreCompileInputs.cache
+C:\IPM\OrderProcessing.POC\HelperLibrary\obj\Debug\netcoreapp2.0\HelperLibrary.AssemblyInfoInputs.cache
+C:\IPM\OrderProcessing.POC\HelperLibrary\obj\Debug\netcoreapp2.0\HelperLibrary.AssemblyInfo.cs
