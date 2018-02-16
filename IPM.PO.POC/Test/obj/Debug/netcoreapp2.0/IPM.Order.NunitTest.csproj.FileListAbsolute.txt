@@ -40,3 +40,9 @@ C:\IPM\IPM.PO.POC\Test\bin\Debug\netcoreapp2.0\Microsoft.Azure.DocumentDB.Core.d
 C:\IPM\IPM.PO.POC\Test\bin\Debug\netcoreapp2.0\IPM.PO.POC.pdb
 C:\IPM\IPM.PO.POC\Test\obj\Debug\netcoreapp2.0\IPM.Order.NunitTest.dll
 C:\IPM\IPM.PO.POC\Test\obj\Debug\netcoreapp2.0\IPM.Order.NunitTest.pdb
+C:\IPM\Upload\IPM.PO.POC\Test\obj\Debug\netcoreapp2.0\IPM.Order.NunitTest.csprojResolveAssemblyReference.cache
+C:\IPM\Upload\IPM.PO.POC\Test\obj\Debug\netcoreapp2.0\IPM.Order.NunitTest.csproj.CoreCompileInputs.cache
+C:\IPM\Upload\IPM.PO.POC\Test\obj\Debug\netcoreapp2.0\IPM.Order.NunitTest.AssemblyInfoInputs.cache
+C:\IPM\Upload\IPM.PO.POC\Test\obj\Debug\netcoreapp2.0\IPM.Order.NunitTest.AssemblyInfo.cs
+C:\IPM\Upload\IPM.PO.POC\Test\obj\Debug\netcoreapp2.0\IPM.Order.NunitTest.dll
+C:\IPM\Upload\IPM.PO.POC\Test\obj\Debug\netcoreapp2.0\IPM.Order.NunitTest.pdb

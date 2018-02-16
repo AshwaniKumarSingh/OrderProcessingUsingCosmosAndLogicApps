@@ -21,3 +21,17 @@ C:\IPM\IPM.PO.POC\IPM.PO.POC\obj\Debug\netcoreapp2.0\IPM.PO.POC.AssemblyInfoInpu
 C:\IPM\IPM.PO.POC\IPM.PO.POC\obj\Debug\netcoreapp2.0\IPM.PO.POC.AssemblyInfo.cs
 C:\IPM\IPM.PO.POC\IPM.PO.POC\obj\Debug\netcoreapp2.0\IPM.PO.POC.dll
 C:\IPM\IPM.PO.POC\IPM.PO.POC\obj\Debug\netcoreapp2.0\IPM.PO.POC.pdb
+C:\IPM\IPM.PO.POC\IPM.PO.POC\obj\Debug\netcoreapp2.0\IPM.PO.POC.csprojResolveAssemblyReference.cache
+C:\IPM\Upload\IPM.PO.POC\IPM.PO.POC\bin\Debug\netcoreapp2.0\IPM.PO.POC.deps.json
+C:\IPM\Upload\IPM.PO.POC\IPM.PO.POC\bin\Debug\netcoreapp2.0\IPM.PO.POC.runtimeconfig.json
+C:\IPM\Upload\IPM.PO.POC\IPM.PO.POC\bin\Debug\netcoreapp2.0\IPM.PO.POC.runtimeconfig.dev.json
+C:\IPM\Upload\IPM.PO.POC\IPM.PO.POC\bin\Debug\netcoreapp2.0\IPM.PO.POC.dll
+C:\IPM\Upload\IPM.PO.POC\IPM.PO.POC\bin\Debug\netcoreapp2.0\IPM.PO.POC.pdb
+C:\IPM\Upload\IPM.PO.POC\IPM.PO.POC\obj\Debug\netcoreapp2.0\IPM.PO.POC.csprojResolveAssemblyReference.cache
+C:\IPM\Upload\IPM.PO.POC\IPM.PO.POC\obj\Debug\netcoreapp2.0\IPM.PO.POC.csproj.CoreCompileInputs.cache
+C:\IPM\Upload\IPM.PO.POC\IPM.PO.POC\obj\Debug\netcoreapp2.0\IPM.PO.POC.AssemblyInfoInputs.cache
+C:\IPM\Upload\IPM.PO.POC\IPM.PO.POC\obj\Debug\netcoreapp2.0\IPM.PO.POC.AssemblyInfo.cs
+C:\IPM\Upload\IPM.PO.POC\IPM.PO.POC\obj\Debug\netcoreapp2.0\IPM.PO.POC.dll
+C:\IPM\Upload\IPM.PO.POC\IPM.PO.POC\obj\Debug\netcoreapp2.0\IPM.PO.POC.pdb
+C:\IPM\Upload\IPM.PO.POC\IPM.PO.POC\bin\Debug\netcoreapp2.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\IPM\Upload\IPM.PO.POC\IPM.PO.POC\bin\Debug\netcoreapp2.0\DocumentDB.Spatial.Sql.dll
